@@ -1,0 +1,24 @@
+.table-gold {
+    border-color: #ffd700;
+    background-color: #ffe17f;
+}
+
+.table-shadow {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+h2 {
+    color: #ffd700;
+}
+
+p {
+    font-size: 18px;
+}

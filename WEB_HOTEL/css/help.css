@@ -1,0 +1,37 @@
+.help body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.help h1, .help h2 {
+    color: #FFC107;
+}
+
+.help h1{
+    text-align: center;
+    padding: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.help h2 {
+    border-bottom: 2px solid #FFC107;
+    padding-bottom: 5px;
+    margin-top: 20px;
+}
+
+.help p {
+    line-height: 1.6;
+}
+
+.help .list{
+    list-style: none;
+    padding: 10px;
+}
+
+.help .faq-section {
+    margin-top: 30px;
+}
+
+.help .gold-link {
+    color: #FFC107; 
+}

@@ -1,0 +1,72 @@
+#login-form {
+    width: 450px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    padding-top: 0px;
+}
+
+#login-form label {
+    margin: 10px auto 5px;
+    color: #555;
+    display: block;
+    font-size: larger;
+}
+
+#login-form #rememberme {
+    font-size: smaller;
+}
+
+#login-form input[type="text"],
+#login-form input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+#login-form input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+#login-form .forgot-password {
+    display: block;
+    text-align: left;
+    color: #e0a800;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+#login-form .agreement-text {
+    margin-top: 10px;
+    font-size: 12px;
+    color: #777;
+}
+
+#login-form a {
+    color: #e0a800;
+    text-decoration: none;
+}
+
+#login-form input[type="submit"] {
+    background-color: #FFCD39;
+    color: #fff;
+    border: none;
+    padding: 5px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-size: 30px;
+}
+
+#login-form input[type="submit"]:hover {
+    background-color: #c29100;
+}
+
+#login-form .create-account {
+    margin-top: 50px;
+    margin-bottom: 0px;
+    text-align: center;
+}
